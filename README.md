@@ -45,7 +45,7 @@ Imagor endpoint is a series of URL parts which defines the image operations, fol
 
 ```
 /HASH|unsafe/trim/AxB:CxD/fit-in/stretch/-Ex-F/GxH:IxJ/HALIGN/VALIGN/smart/filters:NAME(ARGS):NAME(ARGS):.../IMAGE
-```
+``` 
 
 - `HASH` is the URL Signature hash, or `unsafe` if unsafe mode is used
 - `trim` removes surrounding space in images using top-left pixel color
